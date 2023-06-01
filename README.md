@@ -1,7 +1,7 @@
 # Robot-Humanoid-Simulation
 a project of robot and AI K21 UTE
 1. Environment setting
-Hardware: All results are run in CPU Intel-12700H. Software: Matlab R2022b
+Hardware: All results are run in CPU Intel-12700H. Software: Matlab R2019b
 2. Result:
 I am able to simulate a simple walking humanoid robot, wich simulate the sneak movement.
      
